@@ -10,7 +10,7 @@
     <p>Idade:18</p>
     <p>Nascido no dia 04 de novembro do ano de 2005 em Vila Velha</p>
     <h2>Hobbys</h2>
-    <p>Gosto de jogar no meu tempo livre, ler mangá, ver tv quando tem nada pra fazer. Muito as vezes eu pratico um pouco meu desenho</ph>
+    <p>Gosto de jogar no meu tempo livre, ler mangá, ver tv quando tem nada pra fazer. Muito as vezes eu pratico um pouco meu desenho</p>
     <h2>Sobre mim</h2>
     <p>Eu estou cursando na Universidade de Vila Velha o curso de ciência da computação e estou no primeiro periodo</p>
     <p>Meu sonho a um tempo é aprender a programar pra poder criar um jogo esse foi um dos motivos que me fez vim para o curso de ciência da computação</p>
